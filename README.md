@@ -79,7 +79,7 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 
 ### :rocket: Notable Research Projects
 
-1. [Container Orchestrator](): This project focused on development of a cloud-based web application on AWS with a microservice architecture. Executed a custom Container Orchestration capable of load balancing incoming HTTP requests and handling fault tolerance.
+1. [Container Orchestrator](https://github.com/aswath160598/Selfieless-Acts): This project focused on development of a cloud-based web application on AWS with a microservice architecture. Executed a custom Container Orchestration capable of load balancing incoming HTTP requests and handling fault tolerance.
 
 Technologies used: AWS, Docker, Kubernetes, Flask, HTML, CSS, Javascript, VMWare
 
