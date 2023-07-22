@@ -101,7 +101,7 @@ Technologies used: Python, Plotly, Scikit learn, Pandas, Seaborn, Matplotlib
 
 ### 📞 Contact Me
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SivaranjaniSuresh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aswath-senthil-kumar/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AswathSenthilKumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aswath-senthil-kumar/)
 
 Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
 
