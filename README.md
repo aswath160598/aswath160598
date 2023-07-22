@@ -19,13 +19,6 @@
 
 I am a Master of Science in Computer Science student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> majoring in Data Science from Northeastern University, Boston.
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aswath160598&theme=highcontrast)](https://git.io/streak-stats)
-
-![Aswath's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswath160598&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswath160598&layout=compact&theme=dracula&langs_count=6&hide_border=true&custom_title=Top%20Languages&title_color=FF69B4)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About Me
 
 👨🏻‍💻 Hello! I'm Aswath, an enthusiastic software professional focused mainly on Cloud Computing, Data Engineering and Data Science. Here's a glimpse into what defines me:
