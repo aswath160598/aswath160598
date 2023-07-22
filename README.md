@@ -86,12 +86,18 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 
 ### :rocket: Notable Research Projects
 
-1. [Container Orchestrator](): This project focused on development of a cloud-based web application on AWS with a microservice architecture. Executed a custom Container Orchestration capable of load balancing incoming HTTP requests and handling fault tolerance
+1. [Container Orchestrator](): This project focused on development of a cloud-based web application on AWS with a microservice architecture. Executed a custom Container Orchestration capable of load balancing incoming HTTP requests and handling fault tolerance.
 
-Technologies used: AWS, Docker, Kubernetes, Flask, HTML, CSS, Javascript, VMWare.
+Technologies used: AWS, Docker, Kubernetes, Flask, HTML, CSS, Javascript, VMWare
 
 
 2. [Analysing Conflicts in Online Football Communities of Reddit](https://ieeexplore.ieee.org/abstract/document/9077888): In this work, I chose football communities in Reddit to understand inter-community conflicts. I first plotted various graphs to have a macro level understanding of such Reddit communities i.e. number of comments and unique users over months. Then to explore the Subreddits that are more involved in conflicts, I developed a framework for detecting magnitude as well as direction of conflicts and plot an intercommunity conflict graph with directed weighted edges where weights denote the intensity of conflicts. The conflict graphs then help us identify Subreddits that are most conflict-prone and also help us understand the timeline events when conflict occurs. The framework developed in this work can be used and extended for studying conflict in various online forums.
+
+Technologies used: Python, NetworkX, Plotly, Gephi
+
+3. [Flight Price Predictor](https://github.com/deril2605/FlightPricePrediction): Exploring the flight price dataset in Kaggle, developed a price prediction tool which finds what influences the demand for the rides and how the costs change depending on factors such as ticket class, days left for travel, airline, etc by applying Multivariable Linear Regression (90.39%), Random Forest Regressor (95.4%) and Extra Trees Regressor (97.2%)
+
+Technologies used: Python, Plotly, Scikit learn, Pandas, Seaborn, Matplotlib
 
 ### 📞 Contact Me
 
