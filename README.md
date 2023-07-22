@@ -28,7 +28,7 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 
 ### About Me
 
-👨🏻‍💻 Hello! I'm Aswath, an enthusiastic software professional at the intersection of Data Engineering and Data Science. Here's a glimpse into what defines me:
+👨🏻‍💻 Hello! I'm Aswath, an enthusiastic software professional focused mainly on Cloud Computing, Data Engineering and Data Science. Here's a glimpse into what defines me:
 - 💻 
 - 🔬 As a Research Enthusiast, I have contributed to various Research Publications and collaborated with multiple Research Institutes
 - 🔧 As a Data Engineer, I design and build robust data pipelines, ensuring efficient data ingestion, storage, and processing.
@@ -43,6 +43,7 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 
 
 ### 🎓 Education
+<p align="center">
 - Northeastern University (GPA: 4.0)
   - Boston, MA
   - Master of Science in Computer Science
@@ -53,6 +54,7 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
   - Bangalore, India
   - B.Tech. in Computer Science and Engineering (First Class with Distinction)
   - Aug 2016 – May 2020
+</p>
 
 ### 💻 Languages and Tools
 
@@ -75,10 +77,9 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3 JS"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
 
 </p>
