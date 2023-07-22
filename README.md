@@ -34,21 +34,6 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 - 🎤 As a Toastmaster, I embrace the art of public speaking, effectively communicating data-driven insights to diverse audiences.
 - ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
-
-### 🎓 Education
-<p align="center">
-- Northeastern University (GPA: 4.0)
-  - Boston, MA
-  - Master of Science in Computer Science
-  - Sep 2022 - Expected May 2024
-  - Courses: Algorithms, Programming Design Paradigm, Database Management Systems, Cloud Computing, Data Management and Processing
-
-- PES University (CGPA - 9.01)
-  - Bangalore, India
-  - B.Tech. in Computer Science and Engineering (First Class with Distinction)
-  - Aug 2016 – May 2020
-</p>
-
 ### 💻 Languages and Tools
 
 <p align="center">
