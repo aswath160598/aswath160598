@@ -84,44 +84,14 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 
 </p>
 
-### :rocket: Notable Data Engineering Projects
+### :rocket: Notable Research Projects
 
-1. [AIssue Flow](https://github.com/SivaranjaniSuresh/Final-Project-Playground): This project focuses on helping companies manage their projects on GitHub more effectively. It utilizes the GitHub API for scraping issue-related data, stores it in a database, and applies advanced NLP and vector similarity algorithms for improved issue search and summarization. The goal is to facilitate faster issue resolution and enhance overall project management.
+1. [Container Orchestrator](): This project focused on development of a cloud-based web application on AWS with a microservice architecture. Executed a custom Container Orchestration capable of load balancing incoming HTTP requests and handling fault tolerance
 
-Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
-
-:movie_camera: Demo Video
-<p align="center">
-  <a href="https://youtu.be/DnmAYNL0kcI">
-    <img src="https://img.youtube.com/vi/DnmAYNL0kcI/0.jpg" alt="Demo Video">
-  </a>
-</p>
+Technologies used: AWS, Docker, Kubernetes, Flask, HTML, CSS, Javascript, VMWare.
 
 
-2. [LocalLore](https://github.com/BigDataIA-Spring2023-Team-04/BigDataIA-Assignment-05): This project aims to provide a comprehensive one-stop application for travellers, offering various features to help plan, organize, and manage trips efficiently. Some of the key pages and features include:
-
-Technologies used: Streamlit, GitHub, FastAPI, Amazon AWS, Python, HTML5, Pandas, NumPy, Apache Airflow, GitHub Actions.
-
-APIs Used
-
-Whisper API: Used for audio transcription of YouTube travel vlogs to generate context for itinerary generation.
-
-OpenAI API: Utilized for language translation, text generation, and emergency contacts generation.
-
-Google Cloud Translation API: Used for translating user-provided text into the target language.
-
-Google Cloud Text-to-Speech API: Utilized for synthesizing speech from the translated text.
-
-Unsplash API: Used to fetch images of specific locations mentioned in the YouTube travel vlogs.
-
-:movie_camera: Demo Video
-<p align="center">
-  <a href="https://youtu.be/mkkRvp2zlEo">
-    <img src="https://img.youtube.com/vi/mkkRvp2zlEo/0.jpg" alt="Demo Video">
-  </a>
-</p>
-
-
+2. [Analysing Conflicts in Online Football Communities of Reddit](https://ieeexplore.ieee.org/abstract/document/9077888): In this work, I chose football communities in Reddit to understand inter-community conflicts. I first plotted various graphs to have a macro level understanding of such Reddit communities i.e. number of comments and unique users over months. Then to explore the Subreddits that are more involved in conflicts, I developed a framework for detecting magnitude as well as direction of conflicts and plot an intercommunity conflict graph with directed weighted edges where weights denote the intensity of conflicts. The conflict graphs then help us identify Subreddits that are most conflict-prone and also help us understand the timeline events when conflict occurs. The framework developed in this work can be used and extended for studying conflict in various online forums.
 
 ### 📞 Contact Me
 
