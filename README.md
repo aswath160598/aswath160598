@@ -88,7 +88,11 @@ Technologies used: Python, NetworkX, Plotly, Gephi
 
 Technologies used: Python, Keras, Tensorflow, Seaborn, Numpy, Mtplotlib, sklearn
 
-3. [Flight Price Predictor](https://github.com/deril2605/FlightPricePrediction): Exploring the flight price dataset in Kaggle, developed a price prediction tool which finds what influences the demand for the rides and how the costs change depending on factors such as ticket class, days left for travel, airline, etc by applying Multivariable Linear Regression (90.39%), Random Forest Regressor (95.4%) and Extra Trees Regressor (97.2%)
+4. [Facial Image Indexing using Locally Extracted Sparse Vectors](https://link.springer.com/chapter/10.1007/978-981-15-3514-7_93): I proposed a methodology in which preprocessed images are passed onto Logically Adaptive Regression Kernel for coherent facial feature extraction. The patterns recorded from these feature vectors are condensed using LDA to reduce the computational load. These sparse vectors are quantized and aggregated using VLAD with an intention to classify the descriptors in the later stages of the pipeline. Classification is achieved using CAT Boost and Multi-Layered Perceptron to demonstrate the results using a comparative paradigm. The proposed system has been tested on three benchmark datasets namely Faces95, Faces96, and Grimace. Evaluation of these datasets has been done considering the precision, recall, and F1-Score with an intention to perceive the best one among the proposed alternatives.
+
+Technologies used: Python, Keras, Tensorflow, Deep Learning, Machine Learning, Image Processing, LARK
+
+5. [Flight Price Predictor](https://github.com/deril2605/FlightPricePrediction): Exploring the flight price dataset in Kaggle, developed a price prediction tool which finds what influences the demand for the rides and how the costs change depending on factors such as ticket class, days left for travel, airline, etc by applying Multivariable Linear Regression (90.39%), Random Forest Regressor (95.4%) and Extra Trees Regressor (97.2%)
 
 Technologies used: Python, Plotly, Scikit learn, Pandas, Seaborn, Matplotlib
 
