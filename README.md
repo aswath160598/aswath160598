@@ -84,6 +84,10 @@ Technologies used: AWS, Docker, Kubernetes, Flask, HTML, CSS, Javascript, VMWare
 
 Technologies used: Python, NetworkX, Plotly, Gephi
 
+3. [Classifying Skin Cancer Images Based on Machine Learning Algorithms and a CNN Model](https://link.springer.com/chapter/10.1007/978-981-16-9650-3_10): My current research involves the proposition of an efficient approach to detect the kind of skin disease on the human body. In this paper I am recognizing and classifying seven type of skin diseases such as Basal cell carcinoma, Melanocytic Nevi, Actinic keratoses, Melanoma, Dermatofibroma, Benign keratosis-like lesions, Vascular lesions. Extraction of features have been performed by deploying five different algorithms such as Gray-Level Co-Occurrence Matrix(GLCM), Histogram of Oriented Gradient(HOG) and Local Binary Pattern(LBP), Color Histogram and an extended version of Xception. Classification is achieved by utilizing Machine learning algorithms such as Random Forest Classifier, XGBoost Classifier, Support Vector Machine and CAT Boost. Apart from deploying an extended version of a Xception model for the best results we also compare it with other algorithms based on Recall, Precision and F1-score.
+
+Technologies used: Python, Keras, Tensorflow, Seaborn, Numpy, Mtplotlib, sklearn
+
 3. [Flight Price Predictor](https://github.com/deril2605/FlightPricePrediction): Exploring the flight price dataset in Kaggle, developed a price prediction tool which finds what influences the demand for the rides and how the costs change depending on factors such as ticket class, days left for travel, airline, etc by applying Multivariable Linear Regression (90.39%), Random Forest Regressor (95.4%) and Extra Trees Regressor (97.2%)
 
 Technologies used: Python, Plotly, Scikit learn, Pandas, Seaborn, Matplotlib
