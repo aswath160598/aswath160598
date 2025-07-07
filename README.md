@@ -22,7 +22,7 @@ I am a Master of Science in Computer Science student <img src="https://media.gip
 ### About Me
 
 👨🏻‍💻 Hello! I'm Aswath, an enthusiastic software professional focused mainly on Cloud Computing, Data Engineering and Data Science. Here's a glimpse into what defines me:
-- 💻 
+- 💻 As a Software Engineer, I design scalable systems, write clean and efficient code, and architect solutions that balance performance, reliability, and maintainability.
 - 🔬 As a Research Enthusiast, I have contributed to various Research Publications and collaborated with multiple Research Institutes
 - 🔧 As a Data Engineer, I design and build robust data pipelines, ensuring efficient data ingestion, storage, and processing.
 - 📊 On the Data Science side, I love exploring complex datasets, deriving meaningful insights, and developing predictive models.
